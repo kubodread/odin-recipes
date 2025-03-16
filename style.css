@@ -1,0 +1,129 @@
+
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    max-width: 900px;
+    width: 90%;
+    position: absolute;
+}
+
+.margen {
+    background-image: linear-gradient(75deg, rgba(232, 63, 238, 0.8), rgba(43, 255, 53, 0.568));
+    border: 1em solid black;
+    border-radius: 3em;
+}
+
+h1 { text-align: center;
+    margin: -5px 30%;
+    padding: 5px 5px 5px 5px;
+}
+
+.subt { 
+    background-image: linear-gradient(20deg, rgba(232, 63, 238, 1.9),rgb(43, 255, 54));
+    float: left;
+    font-size: 10px;
+    margin-right: 5px;
+    margin-left: 5%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10%;
+    border: 10px solid black;
+    display: inline;
+    border-radius: 1.5em;
+    text-align: -webkit-center;
+
+}
+.subt1 {
+    padding-bottom: 115%;
+    margin-left: 15px;
+    text-align: -webkit-center;
+}
+.subt2 {
+    padding-bottom: 15%;
+    margin-left: 15px;
+    text-align: -webkit-center;
+}
+
+
+.jardin1 {
+    width: 150px;
+    border-radius: .7em;
+    display: block;
+    padding-bottom: 3px;
+    
+}
+
+.jardin.jardinban {
+    width: 150px;
+    border-radius: .7em;
+    display: block;
+    padding-bottom: 3px;
+}
+#jardin2 {
+    width: 360px;
+    border-radius: 2em;
+
+}
+
+ul ol {
+    align-items: center;
+}
+li { 
+    background-image: linear-gradient(90deg, rgba(17, 255, 65, 0.438),rgba(15, 218, 55, 0.082) );
+    list-style-position: inside;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 2px;
+    border: 3px solid chocolate;
+    border-radius: .8em;
+}
+
+.oldiato {
+    width: 250px;
+}
+
+.titulosm {
+    background-image: linear-gradient(90deg, rgba(17, 255, 65, 0.438),rgba(15, 218, 55, 0.082) );
+    list-style-position: inside;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 2px;
+    border: 3px solid chocolate;
+    border-radius: .8em;
+
+}
+
+.titulosg {
+    background-image: linear-gradient(90deg, rgba(17, 255, 65, 0.438),rgba(15, 218, 55, 0.082) );
+    margin-bottom: 2px;
+    border: 3px solid chocolate;
+    border-radius: .8em;
+margin: 0 15px 0 15px;
+}
+.ulg .lit {
+    background-color: rgb(235, 84, 84);
+    font-size: larger;
+    align-content: center;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border: 1px solid rgb(0, 71, 62);
+    border-radius: .8em;
+}
+
+.listatiras {
+    background-image: linear-gradient(30deg, rgba(105, 209, 1, 0.541),rgba(200,0,0,0.25));
+    text-align:justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: .9em;
+}
+
+.divcorregir{
+    style="padding-bottom: 140%;"
+}
